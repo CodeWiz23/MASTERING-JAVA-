@@ -1,7 +1,7 @@
 public class Num2{
 
 
-public static void main (String[] arrgs)
+public static void main (String[] args)
 
 {   int n1  = 1;
     int n2  = 1;
